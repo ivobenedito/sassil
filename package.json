@@ -1,0 +1,14 @@
+{
+  "name": "sassil",
+  "version": "0.0.1",
+  "description": "Modular & minimalist SASS utility lib",
+  "style": "sassil.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ivobenedito@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.6.9"
+  }
+}
