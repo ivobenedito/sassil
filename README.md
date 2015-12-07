@@ -1,8 +1,7 @@
 # sassil
-SASS Utils Lib
 
-Modular & Minimalist SASS Utility Framework.
+Modular & Minimalist SASS Utility Library.
 
-Inspiration:
+##### Bootstraped from:
 - [Basscss](http://basscss.com/)
 - [UIkit Utility](http://getuikit.com/docs/utility.html)
