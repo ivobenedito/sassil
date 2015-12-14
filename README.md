@@ -7,5 +7,5 @@ Modular & Minimalist SASS Utility Library.
 - [UIkit Utility](http://getuikit.com/docs/utility.html)
 - [SCUT](http://davidtheclark.github.io/scut/)
 
-#### Check this ones:
+##### Check this ones:
 - [Penguin Library](https://github.com/Penguin-Library/penguin)
