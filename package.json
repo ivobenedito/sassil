@@ -1,6 +1,6 @@
 {
   "name": "sassil",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Modular & minimalist SASS utility lib",
   "style": "sassil.scss",
   "scripts": {

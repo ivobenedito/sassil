@@ -1,5 +1,6 @@
 {
   "name": "sassil",
+  "version": "0.0.2",
   "description": "Modular & minimalist SASS utility lib",
   "main": "sassil.scss",
   "authors": [
