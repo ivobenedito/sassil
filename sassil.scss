@@ -17,6 +17,12 @@ $space-4: 4rem !default;
 .fw-n, .text-normal { font-weight: 500; }
 .fw-b, .text-bold   { font-weight: 700; }
 
+.text-overflow {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
 // MARGINS
 
 .m0  { margin:        0 }
