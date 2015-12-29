@@ -9,3 +9,6 @@ Modular & Minimalist SASS Utility Library.
 
 ##### Check this ones:
 - [Penguin Library](https://github.com/Penguin-Library/penguin)
+
+#### Notes
+- From Penguin Library, see the bordered css classes to get them into sassil.
